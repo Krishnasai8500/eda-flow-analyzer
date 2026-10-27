@@ -1,0 +1,9 @@
+
+[INFO] Starting synthesis
+[INFO] Reading design files
+[WARNING] Unused signal detected: temp_signal
+[INFO] Elaborating design
+[ERROR] Module alu_core not found
+[WARNING] Unused signal detected: temp_signal
+[INFO] Synthesis terminated
+[ERROR] Module alu_core not found

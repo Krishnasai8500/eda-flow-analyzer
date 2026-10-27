@@ -1,0 +1,7 @@
+
+[INFO] Starting placement
+[WARNING] High fanout detected on net clk
+[INFO] Loading constraints
+[ERROR] Unable to read constraints file
+[WARNING] High fanout detected on net clk
+[INFO] Placement terminated

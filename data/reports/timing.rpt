@@ -1,0 +1,6 @@
+
+Design: alu_core
+Clock Period: 2.000
+Worst Slack: -0.125
+Total Negative Slack: -0.375
+Violating Paths: 3
